@@ -1,5 +1,3 @@
-# ISC2-Certified-Cybersecurity-Certificate-
-
 Samuel Thipe
 🔐 Aspiring Cybersecurity Analyst
 
